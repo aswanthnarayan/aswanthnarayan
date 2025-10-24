@@ -1,7 +1,7 @@
 # Hello World!, I'm Aswanth 👋🏼:
 
 💫 Full-Stack Web Developer passionate about building scalable, fast, and user-friendly applications.  
-🔭 Actively seeking my **first tech role** (Frontend or Full-Stack).  
+🔭 Currently working as a **Full-Stack Developer**.  
 🌱 Currently learning **Go** and **Next.js**
 
 [🌐 Visit My Portfolio](https://aswanthck.netlify.app)
@@ -49,10 +49,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aswanthnarayan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aswanthnarayan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanthnarayan&theme=tokyonight&hide_border=false&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswanthnarayan&theme=tokyonight&hide_border=false" />
     </td>
   </tr>
 </table>
