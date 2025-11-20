@@ -4,7 +4,7 @@
 🔭 Currently working as a **Full-Stack Developer**.  
 🌱 Currently learning **Go** and **Next.js**
 
-[🌐 Visit My Portfolio](https://aswanthck.netlify.app)
+[🌐 Visit My Portfolio](https://aswanth.dev)
 
 ![coding stewie](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI1aXR2YmUwanppemQyMWpib2xqNGE1c3huNGU5aXlmemRrbDltYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nvQ7fBWhPVXXOcfRI/giphy.gif)
 
